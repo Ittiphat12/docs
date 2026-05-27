@@ -13,10 +13,10 @@
       {
         "tab": "My Top 3 Tracks",
         "pages": [
-          "welcome",
-          "usage",
-          "privacy-security",
-          "how-it-works",
+          "introduction",
+          "how-to-use",
+          "privacy",
+          "tech-stack",
           "faq",
           "contact"
         ]
